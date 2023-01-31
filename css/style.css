@@ -1,0 +1,8 @@
+#type{
+	justify-content: space-around;
+	align-items: center;
+}
+
+.button {
+	 background-image: linear-gradient(180deg, red, yellow);
+}
